@@ -2,8 +2,7 @@
 
 Hi, I'm Steve, I make devlogs for my 3D multiplayer parkour FPS game on YouTube.
 
-![Aurora crashed](https://user-images.githubusercontent.com/62797992/129457650-8a125e42-4af2-4ed2-bb76-6fd70c26d230.jpg)
-Yes, I love Subnautica :)
+![Steve's banner (without fish)](https://user-images.githubusercontent.com/62797992/133127018-c2309d67-f843-4633-abe5-cf581be08853.png)
 
 # Links:
 - Steveplays | A Duck's Quack: https://aducksquack.com/steveplays
