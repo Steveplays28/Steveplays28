@@ -8,5 +8,3 @@ I do gamedev. That's it.
 # Links:
 - My channel                  | YouTube: https://www.youtube.com/Steveplays28
 - Join my underwater paradise | Discord: https://discord.gg/KbWxgGg
-
-Soon™️
