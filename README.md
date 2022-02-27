@@ -1,11 +1,7 @@
-<h1 align="center">
-<img align="center" src="https://user-images.githubusercontent.com/62797992/149201998-bf734072-0ac9-4c5e-9a44-07a18d9c1c41.png">
-
-Steveplays28
-</h1>
+![Steve banner](https://user-images.githubusercontent.com/62797992/149201998-bf734072-0ac9-4c5e-9a44-07a18d9c1c41.png)
 
 
-## About me
+# About me
 
 Hi, I'm Steve :)
 
@@ -15,7 +11,7 @@ I make open source games in Godot, I also do web development sometimes!
 I'm always open to suggestions and DMs!
 
 
-## My links
+# My links
 
 Feel free to contact me via any of these platforms, I respond quite quickly :)
 
