@@ -1,18 +1,13 @@
 ![Steve banner](https://user-images.githubusercontent.com/62797992/149201998-bf734072-0ac9-4c5e-9a44-07a18d9c1c41.png)
 
 
-# About me
+# About me  
+Hi, I'm Steve!  
+I'm making games in Godot, as well as Minecraft mods.
 
-Hi, I'm Steve :)
+Currently working on an unnamed multiplayer FPS game.
 
-I make open source games in Godot, I also do web development sometimes!
-
-<br/>
-I'm always open to suggestions and DMs!
-
-
-# My links
-
+# My links  
 Feel free to contact me via any of these platforms, I respond quite quickly :)
 
 [![Discord](https://img.shields.io/discord/746681304111906867?label=chat%20on%20Discord%20%7C%20Steve%27s%20underwater%20paradise&style=social&logo=discord)](https://discord.gg/KbWxgGg)
