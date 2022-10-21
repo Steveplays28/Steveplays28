@@ -1,21 +1,19 @@
-![Steve banner](https://user-images.githubusercontent.com/62797992/149201998-bf734072-0ac9-4c5e-9a44-07a18d9c1c41.png)
+![Steve banner (slim)](https://user-images.githubusercontent.com/62797992/197303154-a72e7e1b-ca6b-4865-aed6-b90a679fd675.png)
 
+![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/gitlab-singular_vector.svg)
+![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-singular_vector.svg)
+![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/revolt-singular_vector.svg)
+![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/twitter-singular_vector.svg)
+![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/youtube-singular_vector.svg)
+![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/twitch-singular_vector.svg)
 
-# About me  
+## About me
+
 Hi, I'm Steve!  
 I'm making games in Godot, as well as Minecraft mods.
 
 Currently working on an unnamed multiplayer FPS game.
 
-# My links  
-Feel free to contact me via any of these platforms, I respond quite quickly :)
+## Current projects
 
-[![Discord](https://img.shields.io/discord/746681304111906867?label=chat%20on%20Discord%20%7C%20Steve%27s%20underwater%20paradise&style=social&logo=discord)](https://discord.gg/KbWxgGg)
-
-[![GitHub](https://img.shields.io/github/stars/Steveplays28?label=Steveplays28%20%7C%20Stars&style=social)](https://github.com/Steveplays28)
-
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC0GP9rATvC5L8yH_NrCaBJw?label=Steveplays%20%7C%20Subscribers&style=social)](https://youtube.com/c/Steveplays28)
-
-[![Twitter](https://img.shields.io/twitter/follow/Steveplays28?label=Steveplays28%20%7C%20Followers&style=social)](https://twitter.com/Steveplays28)
-
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/Steveplays28?label=Steveplays28%20%7C%20Karma&style=social)](https://reddit.com/u/Steveplays28)
+- Minecraft mods
