@@ -25,18 +25,18 @@ These are the projects that I'm trying to actively work on!
 - Minecraft mods
   - Realistic Sleep
 
+    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/realisticsleep)
     [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/realisticsleep)
     [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/realisticsleepfabric)
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/realisticsleep)
 
   - Path Under Fence Gates
 
+    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/pathunderfencegates)
     [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/pathunderfencegates)
     [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/pathunderfencegates)
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/pathunderfencegates)
 
   - Restart Server
 
+    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/steveplays28/restart-server)
     [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/restart-server)
     [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/restart-server)
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/steveplays28/restart-server)
