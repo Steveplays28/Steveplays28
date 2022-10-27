@@ -42,7 +42,7 @@ These are the projects that I'm trying to actively work on!
     [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/restart-server)
     [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/restart-server)
 
-## Funding
+## Coffee :D
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steveplays)  
 I have a [Ko-Fi page (@steveplays)](https://ko-fi.com/steveplays)!
