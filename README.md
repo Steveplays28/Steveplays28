@@ -10,9 +10,12 @@
 ## About me
 
 Hi, I'm Steve!  
-I'm making games in Godot, as well as Minecraft mods.
+I like making games in Godot and Minecraft mods.
 
-Join my [Discord](https://discord.gg/KbWxgGg) or watch my [GitHub repositories](https://github.com/Steveplays28?tab=repositories) for progress reports!
+I'm currently slowly working on an unnamed multiplayer FPS game, whilst also maintaining 3 Minecraft mods, and a networking library.
+
+Join my [Discord](https://discord.gg/KbWxgGg) or watch my [GitHub repositories](https://github.com/Steveplays28?tab=repositories) for progress updates!  
+More updates on [Ko-Fi](<https://ko-fi.com/steveplays>), when I have something cool to show!
 
 ## Current projects
 
