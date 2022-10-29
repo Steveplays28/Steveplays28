@@ -1,5 +1,5 @@
 ![Steve banner (slim)](https://user-images.githubusercontent.com/62797992/197303154-a72e7e1b-ca6b-4865-aed6-b90a679fd675.png)
-![kofi-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/donate/kofi-singular_vector.svg)
+[![kofi-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/donate/kofi-singular_vector.svg)](https://ko-fi.com/Steveplays)
 [![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/Steveplays)
 [![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/youtube-singular_vector.svg)](https://youtube.com/Steveplays28)
 [![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitch-singular_vector.svg)](https://twitch.tv/Steveplays28)
