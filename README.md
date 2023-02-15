@@ -44,6 +44,12 @@ These are the projects that I'm trying to actively work on!
     [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/steveplays28/restart-server)
     [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/restart-server)
     [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/restart-server)
+    
+  - Forgero (Contributor)
+
+    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/SigmundGranaas/forgero)
+    [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/forgero)
+    [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/forgero)
 
 ## Coffee :D
 
