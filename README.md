@@ -12,7 +12,8 @@
 Hi, I'm Steve!  
 I like making games in Godot and Minecraft mods.
 
-I'm currently slowly working on an unnamed multiplayer FPS game, whilst also maintaining 3 Minecraft mods, and a networking library.
+I'm currently maintaining 3 Minecraft mods, and contributing to another Minecraft mod called [Forgero](https://github.com/SigmundGranaas/forgero).
+I'm also working on a new Minecraft mod called [Biome Fog](https://github.com/Steveplays28/biome-fog), check the readme if you're curious to learn what it changes!
 
 Join my [Discord](https://discord.gg/KbWxgGg) or watch my [GitHub repositories](https://github.com/Steveplays28?tab=repositories) for progress updates!  
 More updates on [Ko-Fi](<https://ko-fi.com/steveplays>), when I have something cool to show!
@@ -21,35 +22,53 @@ More updates on [Ko-Fi](<https://ko-fi.com/steveplays>), when I have something c
 
 These are the projects that I'm trying to actively work on!
 
-- Games
-  - Multiplayer FPS game
+### Games
 
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/first-person-shooter)
+#### Multiplayer FPS game
 
-- Minecraft mods
-  - Realistic Sleep
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/first-person-shooter)
 
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/realisticsleep)
-    [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/realisticsleep)
-    [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/realisticsleepfabric)
+### Minecraft mods
 
-  - Path Under Fence Gates
+#### Realistic Sleep
 
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/pathunderfencegates)
-    [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/pathunderfencegates)
-    [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/pathunderfencegates)
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/realisticsleep)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/realisticsleep)
+[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/realisticsleepfabric)
 
-  - Restart Server
+[![github](https://github.com/Steveplays28/realisticsleep/raw/main/docs/media/icon_128x128.png)](https://github.com/Steveplays28/realisticsleep)
 
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/steveplays28/restart-server)
-    [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/restart-server)
-    [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/restart-server)
-    
-  - Forgero (Contributor)
+[![github](https://github.com/Steveplays28/realisticsleep/raw/main/docs/media/realistic_sleep.gif)](https://github.com/Steveplays28/realisticsleep)
 
-    [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/SigmundGranaas/forgero)
-    [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/forgero)
-    [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/forgero)
+#### Path Under Fence Gates
+
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/Steveplays28/pathunderfencegates)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/pathunderfencegates)
+[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/pathunderfencegates)
+
+[![github](https://github.com/Steveplays28/pathunderfencegates/raw/main/docs/media/icon_128x128.png)](https://github.com/Steveplays28/pathunderfencegates)
+
+[![github](https://github.com/Steveplays28/pathunderfencegates/blob/main/docs/media/all_fixes.png)](https://github.com/Steveplays28/pathunderfencegates)
+
+#### Restart Server
+
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/steveplays28/restart-server)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/restart-server)
+[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/restart-server)
+
+<img src="https://github.com/Steveplays28/restart-server/blob/main/src/main/resources/assets/restart-server/icon.png" width="128" />
+
+[![github](https://github.com/Steveplays28/restart-server/raw/main/command_preview.png)](https://github.com/Steveplays28/restart-server)
+
+#### Forgero (Contributor)
+
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/SigmundGranaas/forgero)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/forgero)
+[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/forgero)
+
+<img src="https://github.com/SigmundGranaas/forgero/raw/1.19/assets/logo.png" width="128" />
+
+[![github](https://github.com/SigmundGranaas/forgero/raw/1.19/assets/Banner.png)](https://github.com/SigmundGranaas/forgero)
 
 ## Coffee :D
 
