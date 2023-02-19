@@ -62,6 +62,8 @@ These are the projects that I'm trying to actively work on!
 
 #### Forgero (Contributor)
 
+Made by [Sigmund Granaas Sandring](https://github.com/SigmundGranaas), thank you to him for being super helpful and friendly towards contributors.
+
 [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/github_vector.svg)](https://github.com/SigmundGranaas/forgero)
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/forgero)
 [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/forgero)
