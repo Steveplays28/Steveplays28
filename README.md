@@ -19,7 +19,7 @@ I'm also contributing to other Minecraft projects, such as [Forgero](https://git
 Join my [Discord server](https://discord.gg/KbWxgGg) or watch my [GitHub repositories](https://github.com/Steveplays28?tab=repositories) for progress updates!  
 More updates on [Ko-Fi](<https://ko-fi.com/steveplays>) and [Patreon](https://www.patreon.com/Steveplays28), when I have something cool to show!
 
-Read more: [my website](https://steveplays28.github.io).
+Read more: [my website](https://steveplays.com/contact).
 
 ## Current projects
 
