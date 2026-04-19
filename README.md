@@ -14,7 +14,7 @@ Hi, I'm Steve!
 I like making games!
 
 I'm currently maintaining Minecraft mods, a Factorio mod, and a Satisfactory mod.  
-I'm also contributing to other Minecraft projects, such as [Forgero](https://github.com/SigmundGranaas/forgero) and [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons).
+I've also contributed to other Minecraft projects, such as [Forgero](https://github.com/SigmundGranaas/forgero) and [Distant Horizons](https://gitlab.com/jeseibel/distant-horizons).
 
 Join my [Discord server](https://discord.gg/KbWxgGg) or watch my [GitHub repositories](https://github.com/Steveplays28?tab=repositories) for progress updates!  
 More updates on [Ko-Fi](<https://ko-fi.com/steveplays>) and [Patreon](https://www.patreon.com/Steveplays28), when I have something cool to show!
